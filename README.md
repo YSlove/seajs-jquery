@@ -2,13 +2,13 @@
 
 Seajs的版本是2.0.0
 
-jQuery的版本是1.9.1
+jQuery的版本是1.10.1
 
 在seajs里面直接调用即可，不需要额外引用jQuery
 
 ```
 define(['jquery'], function($){
-	console.log($().jquery); //1.9.1
+	console.log($().jquery); //1.10.1
 });
 ```
 
