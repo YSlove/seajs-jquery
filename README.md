@@ -1,6 +1,6 @@
 # Seajs包含jQuery版本
 
-Seajs的版本是2.0.0
+Seajs的版本是2.1.1
 
 jQuery的版本是1.10.1
 
